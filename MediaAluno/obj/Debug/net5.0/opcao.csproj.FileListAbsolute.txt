@@ -1,0 +1,16 @@
+C:\GIT\opcao\obj\Debug\net5.0\opcao.csprojAssemblyReference.cache
+C:\GIT\opcao\obj\Debug\net5.0\opcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\opcao\obj\Debug\net5.0\opcao.AssemblyInfoInputs.cache
+C:\GIT\opcao\obj\Debug\net5.0\opcao.AssemblyInfo.cs
+C:\GIT\opcao\obj\Debug\net5.0\opcao.csproj.CoreCompileInputs.cache
+C:\GIT\opcao\bin\Debug\net5.0\opcao.exe
+C:\GIT\opcao\bin\Debug\net5.0\opcao.deps.json
+C:\GIT\opcao\bin\Debug\net5.0\opcao.runtimeconfig.json
+C:\GIT\opcao\bin\Debug\net5.0\opcao.runtimeconfig.dev.json
+C:\GIT\opcao\bin\Debug\net5.0\opcao.dll
+C:\GIT\opcao\bin\Debug\net5.0\ref\opcao.dll
+C:\GIT\opcao\bin\Debug\net5.0\opcao.pdb
+C:\GIT\opcao\obj\Debug\net5.0\opcao.dll
+C:\GIT\opcao\obj\Debug\net5.0\ref\opcao.dll
+C:\GIT\opcao\obj\Debug\net5.0\opcao.pdb
+C:\GIT\opcao\obj\Debug\net5.0\opcao.genruntimeconfig.cache
